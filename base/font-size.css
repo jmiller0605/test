@@ -4,7 +4,5 @@
  */
 
 :root {
-  --Dimension-Spacing-Semantic-Stack-Gap: 1px;
-  --Dimension-Shadow-Focus-Ring-Width: 3px;
-  --Dimension-Font-Weight-Bold: 640px;
+  --Font-Size-Title-1-Font-Size: 32px;
 }

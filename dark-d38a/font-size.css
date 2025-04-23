@@ -3,8 +3,6 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-:root {
-  --Dimension-Spacing-Semantic-Stack-Gap: 1px;
-  --Dimension-Shadow-Focus-Ring-Width: 3px;
-  --Dimension-Font-Weight-Bold: 640px;
+.theme-dark-d38a {
+  --Font-Size-Title-1-Font-Size: 32px;
 }
