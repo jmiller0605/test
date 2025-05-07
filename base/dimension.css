@@ -4,6 +4,7 @@
  */
 
 :root {
-  --dimension-palette-magenta-number: 0px;
-  --dimension-example: 100px;
+  --Dimension-Spacing-Semantic-Stack-Gap: 1px;
+  --Dimension-Shadow-Focus-Ring-Width: 3px;
+  --Dimension-Font-Weight-Bold: 640px;
 }
