@@ -4,7 +4,6 @@
  */
 
 :root {
-  --dimensionspacingsemanticstackgap: 1px;
-  --dimensionshadowfocusringwidth: 3px;
-  --dimensionfontweightbold: 640px;
+  --dimension-palette-magenta-number: 0px;
+  --dimension-example: 100px;
 }
